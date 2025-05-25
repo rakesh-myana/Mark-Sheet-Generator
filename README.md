@@ -16,7 +16,7 @@ I'm excited to share this project where I developed a Python program to automate
 - **Python:** The core programming language used for the script.
 - **Libraries:**
   - **Selenium:** Used for web scraping and automating browser actions.
-  - **xlsxwriter:** Utilized for creating and writing to Excel files.
+  - **openpyxl:** Utilized for creating and writing to Excel files.
 
 ### 🛠 Challenges & Solutions:
 - **Handling Dynamic Web Content:** The website's dynamic nature required the use of Selenium's WebDriverWait and various locator strategies to reliably interact with elements.
